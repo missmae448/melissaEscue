@@ -19,7 +19,7 @@
   <a href="https://angel.co/u/melissa-escue" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="melissaEscueSoftwareEngineer.docx.pdf" target="_blank">
+  <a href="melissaEscueResume.docx.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=adobeacrobatreader&logo-color=white"/>
   </a>
 </p>
