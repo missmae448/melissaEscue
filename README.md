@@ -130,8 +130,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mel54924853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mastersrc/images/icons/Social/twitter.svg" alt="christo_landry_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/melissaescue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mastersrc/images/icons/Social/linked-in-alt.svg" alt="christolandry" height="30" width="40" /></a>
+<a href="https://twitter.com/mel54924853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mastersrc/images/icons/Social/twitter.svg" alt="Melissa_Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/melissaescue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mastersrc/images/icons/Social/linked-in-alt.svg" alt="Melissa_linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
