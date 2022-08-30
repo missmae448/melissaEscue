@@ -94,10 +94,10 @@
         </tr>
        <!-- <tr>
             <td width="50%" valign="top">
-                <h3 align="center">Ascent Running Coaching</h3>
+                <h3 align="center">A</h3>
                 <br />
                     <a target="_blank" href="">
-                    <img src="ascentRunningCoaching.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src= width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
@@ -110,7 +110,7 @@
                 <h3 align="center">Portfolio</h3>
                 <br />
                     <a target="_blank" href="">
-                    <img src="portfolio.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src= width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
